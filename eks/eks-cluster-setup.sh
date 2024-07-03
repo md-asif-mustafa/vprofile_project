@@ -14,7 +14,7 @@ then
   # Creation of EKS cluster
   eksctl create cluster \
   --name $CLUSTER_NAME \
-  --version 1.20 \
+  --version 1.23 \
   --region $REGION \
   --nodegroup-name $NODE_NAME \
   --nodes 2 \
