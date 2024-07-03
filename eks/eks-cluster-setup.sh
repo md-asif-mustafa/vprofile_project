@@ -1,8 +1,8 @@
 # Variables
-CLUSTER_NAME=vprofile-eks-cluster
-REGION=us-east-2
+CLUSTER_NAME=asprofile-eks-cluster
+REGION=us-east-1
 NODE_NAME=Linux-nodes
-KEY_NAME=vprofile-eks-key
+KEY_NAME=aprofile-eks-key
 
 # Set AWS credentials before script execution
 
